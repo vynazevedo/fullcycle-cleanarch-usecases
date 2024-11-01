@@ -23,11 +23,11 @@ O projeto consiste em criar e gerenciar os casos de uso `create`, `find`, `list`
 * Arquitetura: Clean Architecture
 
 ### Pré-requisitos e Configuração<br>
-Certifique-se de ter o Node.js e npm/yarn instalados no seu ambiente de desenvolvimento.<br>
-Clone o repositório: git clone https://github.com/seu-usuario/fullcycle3-clean-architecture.git<br>
-Acesse o diretório do projeto: cd fullcycle3-clean-architecture<br>
-Instale as dependências: npm install<br>
-Execute os testes: npm test<br>
+* Certifique-se de ter o Node.js e npm/yarn instalados no seu ambiente de desenvolvimento.<br>
+* Clone o repositório: git clone https://github.com/seu-usuario/fullcycle3-clean-architecture.git<br>
+* Acesse o diretório do projeto: cd fullcycle3-clean-architecture<br>
+* Instale as dependências: npm install<br>
+* Execute os testes: npm test<br>
 
 ### Desafios Implementados
 * Casos de uso para a entidade "Product"
