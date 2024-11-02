@@ -11,10 +11,8 @@ O projeto consiste em criar e gerenciar os casos de uso `create`, `find`, `list`
 ```plaintext
 .
 ├── src/
-│   ├── domain/
-│   ├── application/
+│   ├── core/
 │   ├── infrastructure/
-│   └── tests/
 └── README.md
 ```
 ### Tecnologias Utilizadas
