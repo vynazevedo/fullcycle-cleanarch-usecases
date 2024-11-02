@@ -10,10 +10,28 @@ O projeto consiste em criar e gerenciar os casos de uso `create`, `find`, `list`
 
 ```plaintext
 .
-├── src/
-│   ├── core/
-│   ├── infrastructure/
-└── README.md
+src/
+├── core/
+│   ├── domain/
+│   │   ├── entities/
+│   │   ├── interfaces/
+│   │   └── value-objects/
+│   └── usecases/
+│       ├── customer/
+│       └── product/
+├── infrastructure/
+│   ├── database/
+│   ├── repositories/
+│   │   ├── customer/
+│   │   └── product/
+│   └── api/
+│       ├── controllers/
+│       ├── presenters/
+│       └── routes/
+├── config/
+└── tests/
+    ├── unit/
+    └── integration/
 ```
 ### Tecnologias Utilizadas
 * Linguagem: TypeScript
