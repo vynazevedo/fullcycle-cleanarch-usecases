@@ -45,9 +45,17 @@ src/
 git clone https://github.com/seu-usuario/fullcycle3-clean-architecture.git
 ```
 * Acesse o diretório do projeto: cd fullcycle3-clean-architecture<br>
-* Instale as dependências: npm install<br>
-* Execute os testes: npm test<br>
-
+```bash
+cd fullcycle3-clean-architecture
+```
+* Instale as dependências: 
+```bash
+npm install
+```
+* Execute os testes:
+```bash
+npm test
+```
 ### Desafios Implementados
 * Casos de uso para a entidade "Product"
 * Listagem de Products na API
